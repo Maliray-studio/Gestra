@@ -1,0 +1,8 @@
+{
+  "name": "Copy of GESTRA",
+  "description": "An AI-powered web application to learn, teach, and translate sign language, leveraging Gemini's multimodal capabilities for an interactive experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
